@@ -8,7 +8,7 @@
 
 <br />
 
-[![typing](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&duration=3200&pause=900&color=8A7480&center=true&vCenter=true&width=620&lines=I+like+the+hour+before+rain.;Small+interfaces%2C+slow+coffee%2C+quiet+tools.;A+little+order+for+the+beautiful+mess.)](https://git.io/typing-svg)
+![typing](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&duration=3200&pause=900&color=8A7480&center=true&vCenter=true&width=620&lines=I+like+the+hour+before+rain.;Small+interfaces%2C+slow+coffee%2C+quiet+tools.;A+little+order+for+the+beautiful+mess.)
 
 <br />
 <br />
@@ -39,6 +39,6 @@
 <br />
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FFE4EC,50:E9D5FF,100:B986A7" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=82&section=footer&color=0:FFE4EC,50:E9D5FF,100:B986A7" alt="" />
 
 </div>
