@@ -37,12 +37,6 @@
 > comme des fleurs dans un carnet
 
 <br />
-
-![divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FFE4EC,50:E9D5FF,100:B986A7)
-
-<sub>some pages are kept quiet on purpose</sub>
-
-<br />
 <br />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FFE4EC,50:E9D5FF,100:B986A7" alt="" />
