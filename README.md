@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=blur&height=205&color=gradient&customColorList=12,14,18,20&text=M%C3%A9lodie&fontColor=ffffff&fontSize=56&fontAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=blur&height=205&color=0:FFE4EC,50:E9D5FF,100:B986A7&text=M%C3%A9lodie&fontColor=ffffff&fontSize=56&fontAlignY=50)
 
 <br />
 
@@ -43,6 +43,6 @@
 <br />
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,14,18,20" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FFE4EC,50:E9D5FF,100:B986A7" alt="" />
 
 </div>
