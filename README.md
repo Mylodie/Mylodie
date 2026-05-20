@@ -1,10 +1,14 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=blur&height=220&color=gradient&customColorList=12,14,18,20&text=M%C3%A9lodie&fontColor=ffffff&fontSize=54&fontAlignY=43&desc=soft%20things%20%2F%20clear%20minds%20%2F%20quiet%20machines&descSize=16&descAlignY=62)
+![header](https://capsule-render.vercel.app/api?type=blur&height=205&color=gradient&customColorList=12,14,18,20&text=M%C3%A9lodie&fontColor=ffffff&fontSize=56&fontAlignY=50)
 
 <br />
 
-[![typing](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&duration=3200&pause=900&color=B986A7&center=true&vCenter=true&width=620&lines=I+like+the+hour+before+rain.;Small+interfaces%2C+slow+coffee%2C+quiet+tools.;A+little+order+for+the+beautiful+mess.)](https://git.io/typing-svg)
+![signature](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=27&duration=1&pause=999999&color=B986A7&center=true&vCenter=true&repeat=false&width=680&height=42&lines=soft+things+%2F+clear+minds+%2F+quiet+machines)
+
+<br />
+
+[![typing](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&duration=3200&pause=900&color=8A7480&center=true&vCenter=true&width=620&lines=I+like+the+hour+before+rain.;Small+interfaces%2C+slow+coffee%2C+quiet+tools.;A+little+order+for+the+beautiful+mess.)](https://git.io/typing-svg)
 
 <br />
 <br />
