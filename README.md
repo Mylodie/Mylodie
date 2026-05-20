@@ -38,7 +38,9 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mylodie&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=8a7480&icon_color=b986a7&rank_icon=heart" alt="profile stats" />
+![divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FFE4EC,50:E9D5FF,100:B986A7)
+
+<sub>some pages are kept quiet on purpose</sub>
 
 <br />
 <br />
